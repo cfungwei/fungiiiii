@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fung Wei @fungiiiii
 - 👀 I’m interested in Data, Mathematics and Forex 
 - 🌱 I’m currently learning Machine Learning and Statistics
-- 💞️ I’m looking to collaborate on ...
+
 [Linkedin](https://www.linkedin.com/in/cheongfungwei/) • [E-Mail](mailto:cfungwei@outlook.com)
 
 <!---
