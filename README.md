@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data, Mathematics and Forex 
 - 🌱 I’m currently learning Machine Learning and Statistics
 - 💞️ I’m looking to collaborate on ...
-[Linkedin] (https://www.linkedin.com/in/cheongfungwei/) • [E-Mail](mailto:cfungwei@outlook.com)
+[Linkedin](https://www.linkedin.com/in/cheongfungwei/) • [E-Mail](mailto:cfungwei@outlook.com)
 
 <!---
 fungiiiii/fungiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
