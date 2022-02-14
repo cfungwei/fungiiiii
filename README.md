@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Fung Wei @fungiiiii
-- 👀 I’m interested in Data, Mathematics and Forex 
-- 🌱 I’m currently learning Machine Learning and Statistics
+Hi, I’m Fung Wei
+---
+[Linkedin](https://www.linkedin.com/in/cheongfungwei/) • [E-Mail](mailto:cfungwei@outlook.com) • [Telegram](https://t.me/fungiiiii)
 
-[Linkedin](https://www.linkedin.com/in/cheongfungwei/) • [E-Mail](mailto:cfungwei@outlook.com)
+I am currently a Year 3 Mathematical Science student in Nanyang Technological University (NTU). I specialize in statistics and am pursuing a minor in computing.
+
+Programming Languange
+---
+Python • R • C • MSSQL
+
 
 <!---
 fungiiiii/fungiiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
