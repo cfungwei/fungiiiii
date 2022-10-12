@@ -2,7 +2,7 @@ Hi, I’m Fung Wei
 [<img src = "https://logowiki.net/wp-content/uploads/imgp/Outlook-Logo-1-4313.png" alt = "outlook" height = "20" width = "20"/>](mailto:cfungwei@outlook.com)  [<img src = "https://logowiki.net/uploads/logo/l/linkedin-icon-2.svg" alt = "Linkedin" height = "20" width = "20"/>](https://www.linkedin.com/in/cheongfungwei/)  [<img src = "https://logowiki.net/uploads/logo/t/telegram.svg" alt = "Telegram" height = "20" width = "20"/>](https://t.me/fungiiiii)
 ---
 
-I am a Year 3 Mathematical Science student in Nanyang Technological University (NTU). I specialize in statistics and am pursuing a minor in computing.
+I am a Year 4 Mathematical Science student in Nanyang Technological University (NTU). I specialize in statistics and am pursuing a minor in computing.
 
 I am currently learning Machine Learning and Data Analysis and a Personal Project i am working on is Oanda forex trading bot algorithm
 
